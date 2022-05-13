@@ -33,7 +33,7 @@ An experienced Java full stack developer with React and MERN Stack 🎯. I love 
 <h3>BackEnd Stack:-</h3>
   
 ![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,scala,expressjs&theme=dark&perline=5)
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
 <img src="https://i.imgur.com/pWp0iDn.png" alt="NextJS" height="40" width="40"> 
 
 <h3> FrontEnd Stack:-</h3>
@@ -42,19 +42,16 @@ An experienced Java full stack developer with React and MERN Stack 🎯. I love 
 <img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40">
 <img src="https://i.imgur.com/KUlechH.png" height="40" width="40">
 <img src="https://i.imgur.com/59p9PDP.png" height="40" width="40">
-
   
 ## DevOps
 
 ![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,grafana,heroku,netlify,kubernetes&theme=dark&perline=11)  
   
-  
 ## Databases
   
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light&perline=4)
-<img src="https://github.com/ven2day/Ventoday/blob/main/logos/sql-server.svg" height="40" width="35">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  
+<img src="https://github.com/ven2day/ven2day/blob/main/logos/sql-server-red-logo.png" width="50" height="50" />
+<img src="https://github.com/ven2day/ven2day/blob/main/logos/oracle-logo-red.png" alt="oracle" width="40" height="40"/>
   
 ## Dev Tools
 
@@ -63,8 +60,6 @@ An experienced Java full stack developer with React and MERN Stack 🎯. I love 
 <img src="https://i.imgur.com/yBHwdqa.png" height="40" width="40">
   
 </div>
-
-<br /> 
 
 ## Current Stack
 
@@ -78,10 +73,7 @@ An experienced Java full stack developer with React and MERN Stack 🎯. I love 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
 </div>
-  
-<br /> 
 
 ## 🏆 Github Status
 
@@ -94,10 +86,7 @@ An experienced Java full stack developer with React and MERN Stack 🎯. I love 
 
 </div>
   
-  <br />
+<br />
 
-![](https://github.com/ven2day/Ventoday/blob/main/media/Footer-CT.jpg)
+![](https://github.com/ven2day/ven2day/blob/main/media/Footer-CT.jpg)
   
-  
-  Regards,
-  Ven2day
