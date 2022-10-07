@@ -20,34 +20,35 @@ Experienced Data Consultant with 8+ years of demonstrated experience in designin
 <h3>Cloud Stack:-</h3>
   
 ![My Skills](https://skillicons.dev/icons?i=azure,aws&theme=dark&perline=5)
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="60" height="60"/>
-<img src="/logos/databricks-ar21.svg" alt="Databricks" width="70" height="40"/>
+<img src="/logos/spark-icon.svg" alt="SQL" width="50" height="50"/>
+<img src="/logos/databricks.png" alt="Databricks" width="50" height="50"/>
 <img src="http://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" alt="ADF" width="50" height="50"/>
 <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Synapse-Analytics.svg" alt="Synapse" width="50" height="50"/>
 
 <h3> ETL Stack:-</h3>
   
-![My Skills](https://skillicons.dev/icons?i=python,SQL,Spark&theme=dark&perline=11)
-<img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40">
-<img src="https://i.imgur.com/KUlechH.png" height="40" width="40">
-<img src="https://i.imgur.com/59p9PDP.png" height="40" width="40">
+![My Skills](https://skillicons.dev/icons?i=python&theme=dark&perline=11)
+<img src="/logos/airflow-svgrepo-com.svg" alt="Airflow" width="50" height="50" />
+<img src="/logos/sql-database-generic.svg" alt="SQL" width="50" height="50" />
+<img src="/logos/kafka-white.png" height="40" width="80">
+<img src="/logos/sparksql-icon.svg" alt="SQL" width="50" height="50"/>
+
+  
   
 ## DevOps
 
-![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,grafana,heroku,netlify,kubernetes&theme=dark&perline=11)  
+![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,docker,kubernetes&theme=dark&perline=11)  
   
 ## Databases
   
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light&perline=4)
+![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light&perline=4)
 <img src="https://github.com/ven2day/ven2day/blob/main/logos/sql-server-red-logo.png" width="50" height="50" />
 <img src="https://github.com/ven2day/ven2day/blob/main/logos/oracle-logo-red.png" alt="oracle" width="40" height="40"/>
+<img src="/logos/Logo_White_Redshift_800w.webp" alt="SQL" width="90" height="40" />
+<img src="http://code.benco.io/icon-collection/azure-icons/Azure-Cosmos-DB.svg" alt="Cosmos" width="50" height="40" />
+<img src="http://code.benco.io/icon-collection/azure-icons/SQL-Data-Warehouses.svg" alt="SparkPools" width="50" height="40" />
+ 
 
-  
-## Dev Tools
-
-![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,vscode&theme=light&perline=8)
-<img src="https://i.imgur.com/0EZWddS.png" height="40" width="40">
-<img src="https://i.imgur.com/yBHwdqa.png" height="40" width="40">
   
 </div>
 
