@@ -6,7 +6,7 @@
 <div align="center">
   
 ![focus](https://img.shields.io/badge/focus-DataEngineering-critical)
-![living](https://img.shields.io/badge/Living%20in-Toronto-green)
+![living](https://img.shields.io/badge/InterestedInOpenSource%20in-Tor-green)
 ![projects](https://img.shields.io/badge/Projects-6-orange) 
 </div>
 
